@@ -15,15 +15,8 @@ For example, the **Machine Learning** folder includes:
 - **1.2 Supervised Learning (extended)**  
 - **2.1 Unsupervised Learning**  
 - **2.2 Unsupervised Learning (extended)**  
-- **3. Evaluating Machine Learning Models**  
-- **4.1 Sparse Modeling and Deep Learning (PDF)**  
-- **4.2 Autoencoders, CNN, RNN**  
-- **4.3 Model Sequencing and Time Series**  
-- **4.4 Hidden Markov Models**  
-- **5.1 Scalable ML: Online and Distributed**  
-- **5.2 Bayesian Decision Theory**  
-- **5.3 Bayesian Decision Theory Q&A**  
-- **6. Recent Trends in ML**  
+- **3. Evaluating Machine Learning Models**
+- .....
 - **ML Merged PDF** (all chapters combined) 
 
 ---
