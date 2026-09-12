@@ -1,6 +1,8 @@
 # 📚 B.Tech Subject Notes Repository
 
 Welcome to my personal collection of notes from my B.Tech journey.  
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/0671596e-39d4-497a-ba91-a74d0584ddcf" />
+
 This repository contains multiple subject folders, each organized **chapter‑wise** for clarity and easy navigation.  
 Alongside the individual chapters, I’ve also merged them into **one comprehensive PDF per subject** for quick reference.
 
